@@ -1,0 +1,6 @@
+{
+  "name": "B2B ERP Platform",
+  "description": "A premium, high-density B2B SaaS ERP command center featuring multi-tenant workspaces, interactive inventory grids, and real-time operational feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
